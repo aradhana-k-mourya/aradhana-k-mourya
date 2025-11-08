@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aradhana K Mourya</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
+- 🌱 I’m currently learning **Web Development**
+
+- 👨‍💻 All of my projects are available at [https://aradhana-k-mourya.github.io/Tic-Tac-Toe/](https://aradhana-k-mourya.github.io/Tic-Tac-Toe/)
+
+- 💬 Ask me about **..............**
+
+- 📫 How to reach me **aradhana99732@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://www.linkedin.com/in/aradhana-kumari-04a523282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.linkedin.com/in/aradhana-kumari-04a523282/" height="30" width="40" /></a>
